@@ -59,10 +59,18 @@ form button:hover {
 
 .relogio {
   font-size: 5rem;
+  margin-left: 9.4rem;
 }
 
 .pausado {
   color: red;
+}
+
+button {
+  text-align: center;
+  font-size: 1rem;
+  font-family: monospace, 'sans-serif';
+  margin: 0 4rem;
 }
 
 
